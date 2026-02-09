@@ -1,6 +1,6 @@
 # SE Group 10
 
-# Topic
+# Smart Whatsapp Assistance for Clinics
 
 ## Problem Statement  
 
